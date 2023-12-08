@@ -4,7 +4,7 @@ This report analyze the Customer Churn in bank and using Machine learning to pre
 
 ## Dataset
 - Souce: Kaggle
-= Link: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
+- Link: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 ## Code in Python
 - File: customer_churn_bank.ipynb
